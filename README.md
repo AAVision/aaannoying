@@ -6,8 +6,8 @@
 
 ![alt text](https://github.com/AAVision/aaannoying/blob/master/demo/aaannoying.gif?raw=true)
 
-![alt text](https://github.com/AAVision/aaannoying/demo/blob/master/demo/aaannoying2.gif?raw=true)
+![alt text](https://github.com/AAVision/aaannoying/blob/master/demo/aaannoying2.gif?raw=true)
 
-![alt text](https://github.com/AAVision/aaannoying/demo/blob/master/demo/aaannoying3.gif?raw=true)
+![alt text](https://github.com/AAVision/aaannoying/blob/master/demo/aaannoying3.gif?raw=true)
 
 Many updates are coming soon :)
